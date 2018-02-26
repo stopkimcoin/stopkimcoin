@@ -6,16 +6,17 @@ Specifications
 * Block reward: initial reward of ~190 STKC
 * Block target time: 60 seconds
 * Difficulty: Retargets at every block
-* Transaction fee: 0.001 BZK
+* Transaction fee: 0.001 STKC
 * P2P Port: 44211
 * RPC Port: 44212
 
 Community
 * Twitter: https://twitter.com/stopkimcoin
 * Telegram:  
-Website
-https://www.brazukcoin.space
+Website: coming soon
+
 Mining pools: coming soon
+
 Block explorer: coming soon
 
 Wallets
