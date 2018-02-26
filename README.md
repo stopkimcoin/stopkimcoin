@@ -12,8 +12,8 @@ Specifications
 
 Community
 * Twitter: https://twitter.com/stopkimcoin
-* Telegram:  
-Website: coming soon
+* Telegram:
+* Website: coming soon
 
 Mining pools: coming soon
 
